@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches DOM Snapshot 1`] = `
+<div
+  className="App"
+  title="app-wrapper"
+>
+  <div
+    className="avatar-group"
+    title="avatar-first-wrapper"
+  >
+    <div
+      className="img-wrapper"
+    >
+      <img
+        alt="To"
+        aria-label="avatar-img"
+        className="avatar-img xs"
+        src="https://cdn-icons-png.flaticon.com/512/1151/1151733.png?w=740&t=st=1676606321~exp=1676606921~hmac=6f18b4f33defc5411880cbda1667fd766caa6a731aa9cb9e3dbd3e2ab67b6872"
+      />
+    </div>
+    <div
+      className="img-wrapper"
+    >
+      <img
+        alt="To"
+        aria-label="avatar-img"
+        className="avatar-img xs"
+        src="https://cdn-icons-png.flaticon.com/512/1151/1151733.png?w=740&t=st=1676606321~exp=1676606921~hmac=6f18b4f33defc5411880cbda1667fd766caa6a731aa9cb9e3dbd3e2ab67b6872"
+      />
+    </div>
+    <div
+      className="img-wrapper"
+    >
+      <img
+        alt="To"
+        aria-label="avatar-img"
+        className="avatar-img xs"
+        src="https://cdn-icons-png.flaticon.com/512/1151/1151733.png?w=740&t=st=1676606321~exp=1676606921~hmac=6f18b4f33defc5411880cbda1667fd766caa6a731aa9cb9e3dbd3e2ab67b6872"
+      />
+    </div>
+    <div
+      className="img-wrapper"
+    >
+      <div
+        className="avatar-img-max xs"
+        title="count-wrapper"
+      >
+        <p
+          className="count-max"
+          title="count-max"
+        >
+          +
+          5
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

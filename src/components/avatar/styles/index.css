@@ -1,0 +1,59 @@
+.avatar-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.img-wrapper {
+  padding: 26px;
+}
+
+.avatar-img {
+  position: absolute;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: #e7e2df;
+  border: 3px solid white;
+}
+
+.count-max {
+  font-size: 35px;
+  font-weight: 500;
+  height: 100%;
+  margin: 0;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  color: #9da1ad;
+}
+
+.avatar-img-max {
+  position: absolute;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: #e7eaf4;
+  border: 3px solid white;
+}
+
+/* PROPS SIZE STYLE */
+
+.xs {
+  width: 50px;
+  height: 50px;
+}
+
+.sm {
+  width: 80px;
+  height: 80px;
+}
+
+.md {
+  width: 100px;
+  height: 100px;
+}
+
+.lg {
+  width: 120px;
+  height: 120px;
+}
